@@ -1,0 +1,29 @@
+{
+    "users": [
+       {
+          "id":1,
+          "firstName":"Trenton",
+          "age":25
+       },
+       {
+          "id":2,
+          "firstName":"Sheldon",
+          "age":33
+       },
+       {
+          "id":3,
+          "firstName":"Ariane",
+          "age":18
+       },
+       {
+          "id":4,
+          "firstName":"Thaddeus",
+          "age":42
+       },
+       {
+          "id":5,
+          "firstName":"Jayde",
+          "age":20
+       }
+    ]
+ }
